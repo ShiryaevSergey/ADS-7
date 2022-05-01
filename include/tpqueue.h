@@ -4,7 +4,7 @@
 #include <string>
 #include <iostream>
 
-template<typename T>
+template <typename T>
 class TPQueue {
   private:
     struct structItem {
